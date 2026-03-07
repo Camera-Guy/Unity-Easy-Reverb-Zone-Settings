@@ -1,5 +1,5 @@
 # Unity-Easy-Reverb-Zone-Settings
-Makes setting up reverb zones as easy as it is in DaVinci Resolve
+Makes setting up reverb zone settings as easy as it is in DaVinci Resolve
 
 <img width="1920" height="1080" alt="Screenshot (722)" src="https://github.com/user-attachments/assets/ae07a638-c4a2-48cc-b5ac-4277414645d7" />
 
